@@ -1,0 +1,7 @@
+npm i json-server
+json-server --watch db.json --port 5000
+
+
+npm i -y
+npm install -g serve
+serve -s build -l 3000

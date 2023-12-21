@@ -1,0 +1,269 @@
+{
+  "store": [
+    {
+      "id": 1,
+      "title": "Lining",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem dolores",
+      "delivery": "бесплатно",
+      "imag": "url",
+      "info": [
+        {
+          "address": "Гаселло 3/21",
+          "phone": "+9967074060654"
+        },
+        {
+          "address": "Гаселло 3/21",
+          "phone": "+9967074060654"
+        },
+        {
+          "address": "Гаселло 3/21",
+          "phone": "+9967074060654"
+        },
+        {
+          "address": "Гаселло 3/21",
+          "phone": "+9967074060654"
+        },
+        {
+          "address": "Гаселло 3/21",
+          "phone": "+9967074060654"
+        },
+        {
+          "address": "Гаселло 3/21",
+          "phone": "+9967074060654"
+        },
+        {
+          "address": "Гаселло 3/21",
+          "phone": "+9967074060654"
+        },
+        {
+          "address": "Гаселло 3/21",
+          "phone": "+9967074060654"
+        },
+        {
+          "address": "Гаселло 3/21",
+          "phone": "+9967074060654"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Lining1",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem dolores",
+      "delivery": "бесплатно",
+      "imag": "url",
+      "info": [
+        {
+          "address": "Гаселло 3/21",
+          "phone": "+9967074060654"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Lining2",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem dolores",
+      "delivery": "бесплатно",
+      "imag": "url",
+      "info": [
+        {
+          "address": "Гаселло 3/21",
+          "phone": "+9967074060654"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Lining3",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem dolores",
+      "delivery": "бесплатно",
+      "imag": "url",
+      "info": [
+        {
+          "address": "Гаселло 3/21",
+          "phone": "+9967074060654"
+        }
+      ]
+    }
+  ],
+  "item": [
+    {
+      "id": 1,
+      "brandName": "Lining",
+      "category": "Обувь",
+      "sex": "Male",
+      "delivery": "бесплатно",
+      "price": 1234,
+      "images": [
+        {
+          "id": 1,
+          "imag": "url"
+        },
+        {
+          "id": 2,
+          "imag": "url"
+        },
+        {
+          "id": 3,
+          "imag": "url"
+        },
+        {
+          "id": 4,
+          "imag": "url"
+        },
+        {
+          "id": 5,
+          "imag": "url"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "brandName": "Lining",
+      "category": "Обувь",
+      "sex": "Male",
+      "delivery": "бесплатно",
+      "price": 1234,
+      "images": [
+        {
+          "id": 1,
+          "imag": "url"
+        },
+        {
+          "id": 2,
+          "imag": "url"
+        },
+        {
+          "id": 3,
+          "imag": "url"
+        },
+        {
+          "id": 4,
+          "imag": "url"
+        },
+        {
+          "id": 5,
+          "imag": "url"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "brandName": "Lining",
+      "category": "Обувь",
+      "sex": "Male",
+      "delivery": "бесплатно",
+      "price": 1234,
+      "images": [
+        {
+          "id": 1,
+          "imag": "url"
+        },
+        {
+          "id": 2,
+          "imag": "url"
+        },
+        {
+          "id": 3,
+          "imag": "url"
+        },
+        {
+          "id": 4,
+          "imag": "url"
+        },
+        {
+          "id": 5,
+          "imag": "url"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "brandName": "Lining",
+      "category": "Обувь",
+      "sex": "Male",
+      "delivery": "бесплатно",
+      "price": 1234,
+      "images": [
+        {
+          "id": 1,
+          "imag": "url"
+        },
+        {
+          "id": 2,
+          "imag": "url"
+        },
+        {
+          "id": 3,
+          "imag": "url"
+        },
+        {
+          "id": 4,
+          "imag": "url"
+        },
+        {
+          "id": 5,
+          "imag": "url"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "brandName": "Lining",
+      "category": "Обувь",
+      "sex": "Male",
+      "delivery": "бесплатно",
+      "price": 1234,
+      "images": [
+        {
+          "id": 1,
+          "imag": "url"
+        },
+        {
+          "id": 2,
+          "imag": "url"
+        },
+        {
+          "id": 3,
+          "imag": "url"
+        },
+        {
+          "id": 4,
+          "imag": "url"
+        },
+        {
+          "id": 5,
+          "imag": "url"
+        }
+      ]
+    },
+    {
+      "id": 6
+    }
+  ],
+  "cola": [
+    {
+      "id": 1,
+      "title": "ok"
+    },
+    {
+      "title": "Koal",
+      "id": 2
+    },
+    {
+      "title": "Koal",
+      "id": 3
+    },
+    {
+      "title": "Koal",
+      "id": 4
+    },
+    {
+      "title": "Koal",
+      "id": 6
+    },
+    {
+      "title": "Koal",
+      "id": 7
+    }
+  ]
+}
